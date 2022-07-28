@@ -31,4 +31,5 @@
 
 ## :boom: Algorithms 
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevintocol)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevintocol)](https://solved.ac/kevintocol)
